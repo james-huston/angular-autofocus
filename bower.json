@@ -1,0 +1,10 @@
+{
+  "name": "angular-rv-focuselement",
+  "version": "0.1.0",
+  "main": "src/angular-rv-focuselement.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
